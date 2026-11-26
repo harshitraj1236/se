@@ -1,11 +1,8 @@
 # Software Requirements Specification (SRS)
 ## For PlantCare AI: Disease Diagnosis & Nearby Plant Medicine Availability Platform
 
-**Document Version:** 1.0.0  
-**Standard:** IEEE Std 830-1998 Recommended Practice for Software Requirements Specifications  
-**Date of Release:** November 21, 2026  
-**Author:** Harshit Raj (Lead Software Architect & Engineering Researcher)  
-**Submission Target:** University Evaluation & Production Baseline  
+**Standard:** IEEE Std 830-1998 Recommended Practice for Software Requirements Specifications
+**Date of Release:** November 21, 2026
 
 ---
 
